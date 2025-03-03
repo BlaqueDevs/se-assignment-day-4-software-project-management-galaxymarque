@@ -106,6 +106,17 @@ Agile is better for complex projects where constraints are not well understood w
 
 
 ## 7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
+
+
+
+
+
+
+provides a total overview of the project from start to finish, the members involved in each step, and all the tasks required to complete the project.
+
+
+
+
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
 ## 10. How would you describe your software solution in a way that captures its essence without diving into technical details?
