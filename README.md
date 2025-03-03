@@ -90,10 +90,19 @@ Agile is better for complex projects where constraints are not well understood w
 
 ✓A Work Breakdown Structure (WBS) is a hierarchical tool that breaks down the project scope into smaller, manageable tasks, allowing for better planning, resource allocation, and progress monitoring by providing a clear visual representation of the project's components and dependencies. 
 
+ ✓WBS helps in ;
 
+   (i)Clear project scope definition
 
+    (ii)Improved communication
 
+   (iii)Efficient resource allocation
 
+   (iv)Enhanced risk management
+
+    (v)Accurate cost estimation
+
+    (vi)Progress tracking and monitoring
 
 
 ## 7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
