@@ -84,6 +84,18 @@ Agile is better for complex projects where constraints are not well understood w
 ✓It is important to maintain high standards because it ensures the quality, reliability, and security of the final product, leading to better user experience, reduced maintenance costs, improved customer satisfaction, and a more sustainable software development process by minimizing bugs, security vulnerabilities, and inconsistencies, while also fostering collaboration and efficient development practices among team members. 
 
 ## 6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
+
+
+✓It is crucial because it clearly outlines what the project will deliver, setting boundaries and expectations for all stakeholders, which helps manage project costs, timelines, and prevents unnecessary scope creep
+
+✓A Work Breakdown Structure (WBS) is a hierarchical tool that breaks down the project scope into smaller, manageable tasks, allowing for better planning, resource allocation, and progress monitoring by providing a clear visual representation of the project's components and dependencies. 
+
+
+
+
+
+
+
 ## 7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
