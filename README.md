@@ -114,6 +114,26 @@ Agile is better for complex projects where constraints are not well understood w
 
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
 
+
+     •Communication 
+✓Collaboration -Software development requires teamwork, and communication breakdowns can lead to errors and delays.
+-Communication between stakeholders
+Communication breakdowns can occur between team members, clients, and other stakeholders.
+
+       •Cybersecurity 
+✓Cybersecurity threats: These are acts performed by individuals with harmful intent, whose goal is to steal data, cause damage to or disrupt computing systems.
+
+         •Technical debt 
+✓Technical debt: This is a shortcut that businesses might take on when they want to meet their needs quickly.
+
+        •Resource management 
+✓Resource prioritization and allocation
+This involves identifying those prioritized initiatives that the most attention and possibly specialized skills.
+
+        •Resource management software
+✓This ensures resource managers have on-demand, real-time visibility into people and other resources.
+
+
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
 ## 10. How would you describe your software solution in a way that captures its essence without diving into technical details?
 ## 11. What are the main features or functionalities that make your software stand out?
