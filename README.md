@@ -1,4 +1,4 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/9pw6JKcu)
+     deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/9pw6JKcu)
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=18497495&assignment_repo_type=AssignmentRepo)
 # SE_DAY4_Software-Project-Management
 ## 1. Why is timely delivery crucial in software project management, and how can project managers ensure that deadlines are met?
@@ -25,6 +25,44 @@ project managers can ensure deadlines are met through meticulous planning, clear
 
 
 ## 3. Compare and contrast Agile and Waterfall methodologies. What are the main advantages and disadvantages of each?
+     
+
+
+Both are project management methodologies help in managing projects 
+Agile
+Waterfall
+
+  -Agile is Iterative, with frequent releases while waterfall is sequential, with phases that must completed in order
+
+ 
+ -Agile is highly adaptable with room for change while waterfall is less flexible, with changes being costly and difficult
+Planning
+
+-Agile has minimal upfront planning, with plans evolving as the project progresses while waterfall has extensive planning at the beginning of the project
+
+
+-Agile has continuous and high throughout customer involvement in the project while waterfall has limited customer involvement after the requirements phase
+
+
+           Agile advantages 
+     *Increased employee input
+     *More responsive to customer feedback
+     *Higher job satisfaction
+     *Faster fixes and solutions
+     *More cross-functional collaboration
+     *Better risk management
+
+         Waterfall advantages 
+   *Clear project structure
+   *Easy to track progress 
+   *identify risks 
+   *manage project budgets
+   *Simplifies project management
+   *Makes it easy to set goals
+
+-Waterfall is takes more time compared to Agile
+-Cost development in waterfall is higher than Agile
+
 ## 4. In what types of projects might Agile be more beneficial than Waterfall, and vice versa? Can you provide examples of each?
 ## 5. What are some methods for ensuring quality assurance throughout a software project? Why is it important to maintain high standards?
 ## 6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
