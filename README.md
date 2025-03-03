@@ -71,6 +71,18 @@ Agile is better for complex projects where constraints are not well understood w
 -Agile can be used in making a website while waterfall can be used in making an  software like an app.
 
 ## 5. What are some methods for ensuring quality assurance throughout a software project? Why is it important to maintain high standards?
+
+    -Defining clear requirements
+    -Conducting thorough testing at every stage 
+    - Implementing code reviews
+    - Utilizing automated testing tools
+    - Practicing continuous integration and delivery
+    -Incorporating user feedback
+    - Adhering to established coding standards
+
+ 
+✓It is important to maintain high standards because it ensures the quality, reliability, and security of the final product, leading to better user experience, reduced maintenance costs, improved customer satisfaction, and a more sustainable software development process by minimizing bugs, security vulnerabilities, and inconsistencies, while also fostering collaboration and efficient development practices among team members. 
+
 ## 6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
 ## 7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
