@@ -63,9 +63,12 @@ Planning
 -Waterfall is takes more time compared to Agile
 -Cost development in waterfall is higher than Agile
 
+
 ## 4. In what types of projects might Agile be more beneficial than Waterfall, and vice versa? Can you provide examples of each?
 
 Agile is better for complex projects where constraints are not well understood while  waterfall is better for projects with well-defined requirements and strict deadlines. 
+
+-Agile can be used in making a website while waterfall can be used in making an  software like an app.
 
 ## 5. What are some methods for ensuring quality assurance throughout a software project? Why is it important to maintain high standards?
 ## 6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
